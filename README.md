@@ -13,4 +13,4 @@
 HTML / CSS / JavaScript / ASP.NET Core
 
 ## Trello Board
-[View Board]([https://trello.com/your-board-link](https://trello.com/b/fUn2ClEh/university-management-system-sprint-1))
+[View Board](https://trello.com/b/fUn2ClEh/university-management-system-sprint-1)
