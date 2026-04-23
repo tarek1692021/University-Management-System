@@ -7,7 +7,7 @@
 ## Week 1 Plan
 - [x] Write 5 User Stories
 - [x] Set up Trello board
-- [ ] Link Trello → GitHub
+- [x] Link Trello → GitHub
 
 ## Tech Stack
 HTML / CSS / JavaScript / ASP.NET Core
